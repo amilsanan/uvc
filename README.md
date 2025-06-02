@@ -12,5 +12,5 @@ Clone repo and run following commands:
 ```
 make
 sudo rmmod uvcvideo
-sudo insmod ./uvcvideo.ko
+sudo modprobe ./uvcvideo.ko
 ```
